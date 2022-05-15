@@ -7,9 +7,9 @@ let year = 2022
 let useryear = year - yosh;
 alert ( name + '\n' + lastName + '\n' + useryear)
 
-let teng = 18
-if (useryear >= teng) {
+let boradi = 18
+if (useryear >= boradi) {
     alert('гoдин');
-}else if(useryear < teng) {
+}else if(useryear < boradi) {
     alert('нигoдин');
 }
